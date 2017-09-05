@@ -1,2 +1,2 @@
 # GMSObfuscator
-Temporarily abandoned, not sure if I'll work on this again. Currently obfuscates strings in GML code.
+Abandoned. Currently obfuscates strings (kind of improperly) in GML code. I'm working on another obfuscator that properly parses the code, though. Not sure if I'll open-source it.
